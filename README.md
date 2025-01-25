@@ -44,9 +44,11 @@ Here’s a preview of the application in action:
 ├── heart_disease_prediction_model.pkl  # Trained Logistic Regression model
 
 ├── templates/
+
 │   └── index.html        # Front-end HTML file
 
 ├── static/
+
 │   ├── style.css         # CSS file for styling
 
 │   ├── background.jpg    # Background image
