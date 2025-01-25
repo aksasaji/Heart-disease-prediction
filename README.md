@@ -40,12 +40,17 @@ Here’s a preview of the application in action:
 # 📁 File Structure
 
 ├── app.py                # Flask backend for the application
+
 ├── heart_disease_prediction_model.pkl  # Trained Logistic Regression model
+
 ├── templates/
 │   └── index.html        # Front-end HTML file
+
 ├── static/
 │   ├── style.css         # CSS file for styling
+
 │   ├── background.jpg    # Background image
+
 └── README.md             # Project documentation
 # 🤝 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to enhance the functionality or design.
