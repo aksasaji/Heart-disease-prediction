@@ -4,14 +4,21 @@ A machine learning-powered web application to predict the likelihood of heart di
 
 # 🚀 Features
 Accurate Predictions: A model trained on real-world heart disease datasets.
+
 User-Friendly Interface: Interactive form with live prediction results.
+
 Responsive Design: Optimized for all devices with a visually appealing background.
+
 Real-World Impact: A tool designed to assist in early detection and awareness of heart health risks.
 ## 🔧 Technologies Used
 Backend: Python, Flask
+
 Machine Learning: Scikit-learn (Logistic Regression)
+
 Frontend: HTML, CSS, JavaScript
+
 Styling: Responsive CSS with a modern aesthetic
+
 Data Processing: Pandas, NumPy
 # 🛠️ Setup Instructions
 
