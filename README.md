@@ -15,21 +15,21 @@ Styling: Responsive CSS with a modern aesthetic
 Data Processing: Pandas, NumPy
 # 🛠️ Setup Instructions
 
-Clone this repository:
+## Clone this repository:
 
 git clone https://github.com/your-username/heart-disease-prediction.git
 
 cd heart-disease-prediction
 
-Install dependencies:
+## Install dependencies:
 
 pip install -r requirements.txt
 
-Run the Flask app:
+## Run the Flask app:
 
 python app.py
 
-Open the application in your browser:
+## Open the application in your browser:
 
 http://127.0.0.1:5000
 
